@@ -19,7 +19,7 @@ M.Baum      Co Projectfounder Master  Author
   Binary Tree Sort  Sorting Sortieren von Dateien Aufsteigend Absteigend - Console APP 
   AmericanFlagSort
 
-# design Patterns
+# Design Patterns
   Composite Patterns
   Strategy Patterns
     Robot Strategy Design Pattern  
