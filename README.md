@@ -22,4 +22,5 @@ M.Baum      Co Projectfounder Master  Author
 # Design Patterns
   Composite Patterns
   Strategy Patterns
-    Robot Strategy Design Pattern, Shipping Solution Strategy Design Pattern, Inventory Management Strategy Design Pattern
+    Robot Strategy Design Pattern
+    Shipping Solution Strategy Design Pattern, Inventory Management Strategy Design Pattern
