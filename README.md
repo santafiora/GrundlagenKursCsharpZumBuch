@@ -1,6 +1,6 @@
 # Grundlagen Kurs Csharp Zum Buch 
 
-Alle Code Beispiel sind in C# geschrieben!
+Alle Code Beispiele sind in C# geschrieben basierend auf Dot net Framework 4.8
 
 Das Buch werde ich die nächsten Tage Posten
 
