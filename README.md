@@ -12,7 +12,7 @@ R.Malicki   Projectfounder    Master  Author
 M.Baum      Co Projectfounder Master  Author
 
 
-# Kapitel Sorteralgorithmen
+# Kapitel Sortieralgorithmen
   Bubble Sort
   Bubble Sort Recursive
 
