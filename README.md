@@ -9,4 +9,4 @@ Sprachen derzeit Deutsch, die Sprachen English und Dänisch Pending
 
 # Code Reviewer and Master Senior Projektmanager and Developer
 R.Malicki   Projectfounder    Master  Author
-M.Baum      Co PRojectfounder Master  Author
+M.Baum      Co Projectfounder Master  Author
